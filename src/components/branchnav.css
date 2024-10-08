@@ -1,0 +1,8 @@
+.containerrs{
+    display: grid;
+    place-items: center;
+    height: 10vh;
+    padding: 0px;
+    text-align: center;
+    flex-direction: row;
+}
